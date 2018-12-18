@@ -36,7 +36,8 @@ Rasa NLU的目标受众是开发聊天机器人和语音应用的开发者。
 
 ### 翻译目录
     
-   [尝试使用Rasa NLU ](/Doc/尝试使用Rasa%20NLU%20.md)
+  1. [尝试使用Rasa NLU](/Doc/1.尝试使用Rasa%20NLU.md)
+  2. 
 
 
 
