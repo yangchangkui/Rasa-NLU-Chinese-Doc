@@ -34,6 +34,14 @@ Rasa NLU的目标受众是开发聊天机器人和语音应用的开发者。
 我们在Rasa社区论坛上有一个非常积极的支持[社区](https://forum.rasa.com/)，很乐意帮助你解答问题。如果您对我们有任何反馈，或者对改进文档有任何具体建议，请通过在[Rasa NLU GitHub repository](https://github.com/RasaHQ/rasa_nlu)上创建问题与我们分享。
 
 
+### 翻译目录
+    
+   [尝试使用Rasa NLU ](/Doc/尝试使用Rasa%20NLU%20.md)
+
+
+
+
+
 
 
 
